@@ -1,6 +1,6 @@
 const Bookings = () => {
     return ( 
-        <div>
+        <div className="h-screen">
             Book your appointment here
         </div>
      );

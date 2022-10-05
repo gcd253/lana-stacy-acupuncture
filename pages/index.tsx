@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
-    <div></div>
+    <div className="h-screen"></div>
   );
 };
 
